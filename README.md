@@ -15,10 +15,10 @@ Feito uma landing page especialmente para minha mãe, cujo é terapeuta. Projeto
 
 ## Para acessar o site pelo navegador ou pelo celular
 - Para acessar a página, basta seguir os passos:
-1 - Clicar no repositório
-2 - Settings
-3 - Pages
-4 - Clicar no link: Your site is live at https://michaelbernards.github.io/Anna-Goncalves/
+- 1: Clicar no repositório
+- 2: Settings
+- 3: Pages
+- 4: Clicar no link: Your site is live at https://michaelbernards.github.io/Anna-Goncalves/
 
 # Autor
 
