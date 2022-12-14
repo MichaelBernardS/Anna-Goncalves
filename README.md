@@ -3,7 +3,9 @@
 
 # Sobre o projeto
 
-Feito uma landing page especialmente para minha mãe, cujo é terapeuta. Projeto web e mobile desenvolvido a partir do evento NLW da RocketSeat. 
+Feito uma landing page especialmente para minha mãe, cujo é terapeuta. Projeto web e mobile desenvolvido a partir do evento NLW Return #8 da RocketSeat. 
+
+![Web 1](https://github.com/MichaelBernardS/Assets/blob/main/NLW%20Return%20%238.png)
 
 # Tecnologias utilizadas
 ## Front end
